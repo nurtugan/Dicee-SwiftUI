@@ -14,7 +14,7 @@ My Third SwiftUI App
 Source: https://www.hackingwithswift.com/quick-start/swiftui/what-is-the-state-property-wrapper
 
 ## Main view
-<img src="https://github.com/nurtugan/Dicee-SwiftUI/blob/master/Screen%20Shot%202020-03-24%20at%202.04.26%20AM.png" alt="" width="371" height="648">
+<img src="https://github.com/nurtugan/Dicee-SwiftUI/blob/master/Screenshots/Screen%20Shot%202020-03-24%20at%202.04.26%20AM.png" alt="" width="371" height="648">
 
 ## App icon
-<img src="https://github.com/nurtugan/Dicee-SwiftUI/blob/master/Screen%20Shot%202020-03-24%20at%202.04.38%20AM.png" alt="" width="371" height="648">
+<img src="https://github.com/nurtugan/Dicee-SwiftUI/blob/master/Screenshots/Screen%20Shot%202020-03-24%20at%202.04.38%20AM.png" alt="" width="371" height="648">
